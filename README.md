@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  <img width="100%" alt="Khalid Elsayed — Full Stack Developer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020617,50:082F49,100:0284C7&amp;height=240&amp;section=header&amp;text=Khalid%20Elsayed&amp;fontSize=52&amp;fontColor=F8FAFC&amp;fontAlignY=38&amp;desc=FULL%20STACK%20DEVELOPER%20%7C%20WEB%20%26%20MOBILE&amp;descSize=17&amp;descAlignY=60&amp;animation=fadeIn" />
+&lt;img width="100%" alt="Khalid Elsayed | Full Stack Developer" src="./banner.png" /&gt;
 
   ### Building modern web experiences and practical digital products.
 
