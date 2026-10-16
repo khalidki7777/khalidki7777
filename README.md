@@ -3,7 +3,7 @@
 
 <div align="center">
 
-&lt;img width="100%" alt="Khalid Elsayed | Full Stack Developer" src="./banner.png" /&gt;
+![Khalid Elsayed - Full Stack Developer](./banner.png)
 
   ### Building modern web experiences and practical digital products.
 
